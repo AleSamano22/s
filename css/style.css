@@ -9319,13 +9319,13 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 378px) {
     .figura-evento {
-        margin-left: 15px;
+        margin-left: 25px;
     }
 }
 
 @media (max-width: 378px) {
     .col-md-6{
-       padding-left: 25px;
+       padding-left: 15px;
     }
 }
 
