@@ -9273,7 +9273,7 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 378px) {
     .navbar-fixed-top{
-        width: 370px;
+        width: 350px;
     }
 }
 
