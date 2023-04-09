@@ -9273,13 +9273,13 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 378px) {
     .navbar-fixed-top{
-        width: 200px;
+        width: 374px;
     }
 }
 
 @media (max-width: 378px) {
     .footer {
-        width: 370px;
+        width: 374px;
     }
 }
 
