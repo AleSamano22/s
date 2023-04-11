@@ -9265,32 +9265,32 @@ a.text-light:focus,a.text-light:hover {
 
 
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .lead {
         font-size: 24px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .navbar-fixed-top{
         width: 370px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .footer {
         width: 370px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .h3,h3 {
         text-align: center;
         font-size: 22px
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .logo-ecobici{
         width: 200px;
         height: 43.7px;
@@ -9303,27 +9303,27 @@ a.text-light:focus,a.text-light:hover {
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .figura-docs{
         width: 100px;
         height: 100px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .registro{
         width: 300px;
         height: 230px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .figura-evento {
         margin-left: 20px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .col-md-6{
        padding-left: 15px;
     }
