@@ -9273,13 +9273,13 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 480px) {
     .navbar-fixed-top{
-        width: 480px;
+        width: 470px;
     }
 }
 
 @media (max-width: 480px) {
     .footer {
-        width: 480px;
+        width: 470px;
     }
 }
 
@@ -9293,7 +9293,7 @@ a.text-light:focus,a.text-light:hover {
 @media (max-width: 480px) {
     .logo-ecobici{
         width: 200px;
-        height: 48px;
+        height: 52px;
     }
 }
 
@@ -9313,7 +9313,7 @@ a.text-light:focus,a.text-light:hover {
 @media (max-width: 480px) {
     .registro{
         width: 300px;
-        height: 230px;
+        height: 250px;
     }
 }
 
@@ -9325,7 +9325,7 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 480px) {
     .col-md-6{
-       padding-left: 25px;
+       padding-left: 45px;
     }
 }
 
