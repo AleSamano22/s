@@ -9273,13 +9273,13 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 480px) {
     .navbar-fixed-top{
-        width: 370px;
+        width: 480px;
     }
 }
 
 @media (max-width: 480px) {
     .footer {
-        width: 370px;
+        width: 480px;
     }
 }
 
@@ -9293,11 +9293,11 @@ a.text-light:focus,a.text-light:hover {
 @media (max-width: 480px) {
     .logo-ecobici{
         width: 200px;
-        height: 43.7px;
+        height: 48px;
     }
 }
 
-@media (max-width: 378px) {
+@media (max-width: 480px) {
     .doc-boton{
         width: 33.33%;
     }
@@ -9325,7 +9325,74 @@ a.text-light:focus,a.text-light:hover {
 
 @media (max-width: 480px) {
     .col-md-6{
-       padding-left: 15px;
+       padding-left: 25px;
     }
 }
 
+
+
+
+
+@media (max-width: 378px) {
+    .lead {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 378px) {
+    .navbar-fixed-top{
+        width: 370px;
+    }
+}
+
+@media (max-width: 378px) {
+    .footer {
+        width: 370px;
+    }
+}
+
+@media (max-width: 378px) {
+    .h3,h3 {
+        text-align: center;
+        font-size: 22px
+    }
+}
+
+@media (max-width: 378px) {
+    .logo-ecobici{
+        width: 200px;
+        height: 43.7px;
+    }
+}
+
+@media (max-width: 378px) {
+    .doc-boton{
+        width: 33.33%;
+    }
+}
+
+@media (max-width: 378px) {
+    .figura-docs{
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 378px) {
+    .registro{
+        width: 300px;
+        height: 230px;
+    }
+}
+
+@media (max-width: 378px) {
+    .figura-evento {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 378px) {
+    .col-md-6{
+       padding-left: 15px;
+    }
+}
